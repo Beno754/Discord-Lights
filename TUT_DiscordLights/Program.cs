@@ -2,6 +2,9 @@
 // Required DSharpPlus NuGet Dependency
 // https://dsharpplus.github.io/DSharpPlus/
 
+// Requires local philips hue devices
+// https://developers.meethue.com/develop/get-started-2/
+
 
 namespace TUT_DiscordLights
 {
